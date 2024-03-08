@@ -1,7 +1,3 @@
-# Repo YNOV B2 G1 Data
-
-https://github.com/Gladrat/ynov_b2_g1_data
-
 ```c
 #include <stdio.h>
 #include <string.h>
